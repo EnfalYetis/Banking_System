@@ -1,7 +1,7 @@
-# Banking System - Java Swing Project
+# Banking System 
 
 ## Description
-The Banking System is a Java Swing application that simulates basic banking operations. It provides a user-friendly interface for managing accounts, transactions, and other essential banking functions.
+This project is a Java application capable of performing basic banking operations. Users can create accounts, deposit money, withdraw funds, and check their current balance. With its simple interface and functional structure, it's a suitable example for those who want to learn the logic behind banking systems.
 
 ## Features
 - Account creation and management
@@ -10,43 +10,7 @@ The Banking System is a Java Swing application that simulates basic banking oper
 - Transaction history
 - User-friendly GUI with Java Swing
 
-## Screenshots
-![Screenshot 1](screenshot/1.png)
-![Screenshot 2](screenshot/2.png)
 
-## Technologies Used
-- Java
-- Java Swing for GUI
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/banking-system.git
-   cd banking-system
-   
-   ```
-2. Run Project
-   ```bash
-   javac Main.java
-   java Main
-   ```
-## Usage
-1. Launch the application.
-2. Follow the on-screen instructions to perform banking operations.
 
-## Contribution
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (git checkout -b feature/new-feature)
-3. Commit your changes (git commit -m 'Add new feature')
-4. Push to the branch (git push origin feature/new-feature)
-5. Create a pull request
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-- Thanks to Java for the programming language.
-- Special thanks to Java Swing for the GUI components.
-- Feel free to customize the content according to your project's specific details. Add more sections or information as needed.
+.
